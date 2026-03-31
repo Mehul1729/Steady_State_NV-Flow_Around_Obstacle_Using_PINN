@@ -3,6 +3,7 @@
 
 
 **Access the full convergence plots from here: [WeightsandBiases](https://api.wandb.ai/links/mehul22-iiser-thiruvananthapuram/wdoooei9)**
+**To re-run the notebook, please change the datapaths wherever needed**
 
 ---
 
