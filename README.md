@@ -29,6 +29,12 @@ In my official GSoC proposal, I noted that the 20,000-epoch evaluation task was 
   <em>Figure 2: Absolute spatial error maps. Notice the complete elimination of the massive upstream pressure spikes observed in the earlier 20k runs.</em>
 </p>
 
+<p align="center">
+  <img src="sidebyside.png" alt="30k Epoch Error Maps" width="180%">
+  <br>
+  <em>Figure 3: Side by side comparision of the Fenics generated simulation vs the PINN predictions.</em>
+</p>
+
 ---
 
 ##  Project Overview
