@@ -1,4 +1,4 @@
-#  Physics-Informed Neural Network (PINN) for Steady-State Navier-Stokes Flow
+#  Fourier Features based Physics-Informed Neural Network (PINN) for Steady-State Navier-Stokes Flow
 **GSoC 2026 Evaluation Task Submission | Organization: ML4-Sci | Project: SPINN** **Author:** Mehul Goyal
 
 ---
