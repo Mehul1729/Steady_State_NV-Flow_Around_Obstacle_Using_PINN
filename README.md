@@ -24,7 +24,7 @@ In my official GSoC proposal, I noted that the 20,000-epoch evaluation task was 
 </p>
 
 <p align="center">
-  <img src="error_report_30000.png" alt="30k Epoch Error Maps" width="80%">
+  <img src="error_report_30000.png" alt="30k Epoch Error Maps" width="180%">
   <br>
   <em>Figure 2: Absolute spatial error maps. Notice the complete elimination of the massive upstream pressure spikes observed in the earlier 20k runs.</em>
 </p>
